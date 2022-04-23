@@ -1,4 +1,4 @@
-# Mexican-Plague-prediction
+# Mexican Plague prediction
 
 As an epidemic broke out in New Mexico and quickly spread across its cities, the goal was to build a predictive model to understand its evolution and accurately predict who is most likely to survive it. Hence, the methodology comprises the data split into train and test, followed by the pre-processing, feature engineering and selection, modeling phases to test out different predictive algorithms, validation, and a final stage to have the selected model set for submission.
 
